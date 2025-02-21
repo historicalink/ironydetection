@@ -7,11 +7,11 @@ This study explores the use of large language models (LLMs) to enhance datasets 
 
 ## Notebooks
 
-### 1. `Dataset_Augmentation.ipynb`
+### 1. [`Dataset_Augmentation.ipynb`](https://github.com/historicalink/ironydetection/blob/main/Dataset_Augmentation.ipynb)
 This notebook contains the code for the requests made in the semi-autommatic annotation process.
 
-### 2. `Dataset_Enhancement.ipynb`
+### 2. [`Dataset_Enhancement.ipynb`](https://github.com/historicalink/ironydetection/blob/main/Dataset_Enhancement.ipynb)
 This notebook contains the code for the dataset enhancement process and several mock prompts used in the process.
 
-### 3. `Experiments_with_NN.ipynb`
+### 3. [`Experiments_with_NN.ipynb`](https://github.com/historicalink/ironydetection/blob/main/Experiments_with_NN.ipynb)
 This notebook contains all the process used for the experiments that used the different datasets, the architecture of the Neural Network used and the different processes used for the cleaning and preparation of the datasets. Code was reused with slight differences for each experiment.
